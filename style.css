@@ -7,68 +7,64 @@
 
 body {
 	background-color: #777;
+	width: 960px;
 }
 
 header {
 	background-color: #ebebeb;
-	width: 960px;
+	width: 100%;
 	padding: 20px;
-	border: 10px;
-	margin: 10px;
-	position: relative;
-}
+	margin-bottom: 10px;
 
+}
 #nav {
 	background-color: #ebebeb;
-	width: 960px;
+	width: 100%;
 	padding: 20px;
-	margin: auto;
-	position: relative;
+	margin-bottom: 10px;
+
 }
 
 #section {
 	background-color: #ebebeb;
 	width: 495px;
 	padding: 20px;
-	margin: 10px;
+	margin-bottom: 10px;
 	float: left;
-	margin: auto;
 }
 
 #aside {
 	background-color: #ebebeb;
-	width: 495px;
+	width: 435px;
 	padding: 20px;
-	margin: 10px;
+	margin-bottom: 10px;
 	float: right;
-	margin: auto;
 }
 
 #article {
 	background-color: #777;
+	width: 485px;
 	padding: 20px;
-	width: 495px;
-	margin: 10px;
+	margin-bottom: 10px;
 }
 
 #hhh {
 	background-color: #ebebeb;
+	width: 475px;
 	padding: 20px;
-	width: 495px;
-	margin: 10px;
+	margin-bottom: 10px;
 } 
 
 #p { 
 	background-color: #ebebeb;
+	width: 475px;
 	padding: 20px;
-	width: 495px;
-	margin: 10px;
+	margin-bottom: 10px;
 }
 
 footer {
 	background-color: #ebebeb;
-	width: 960px;
+	width: 100%;
 	padding: 20px;
-	margin: auto;
-	position: relative;
+	margin-bottom: 10px;
 }
