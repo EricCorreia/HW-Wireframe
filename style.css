@@ -27,7 +27,7 @@ header {
 
 #section {
 	background-color: #ebebeb;
-	width: 495px;
+	width: 55%;
 	padding: 20px;
 	margin-bottom: 10px;
 	float: left;
@@ -35,28 +35,29 @@ header {
 
 #article {
 	background-color: #777;
-	width: ;
+	width: 93%;
 	padding: 20px;
 	margin-bottom: 10px;
 }
 
 #hhh {
 	background-color: #ebebeb;
-	width: 430px;
+	width: 93%;
 	padding: 20px;
 	margin-bottom: 10px;
 } 
 
 #p { 
 	background-color: #ebebeb;
-	width: 430px;
+	width: 93%;
 	padding: 20px;
 	margin-bottom: 10px;
 }
 
 #aside {
 	background-color: #ebebeb;
-	width: ;
+	height: 222px;
+	width: 38%;
 	padding: 20px;
 	margin-bottom: 10px;
 	float: right;
@@ -67,4 +68,5 @@ footer {
 	width: 100%;
 	padding: 20px;
 	margin-bottom: 10px;
+	float: left;
 }
