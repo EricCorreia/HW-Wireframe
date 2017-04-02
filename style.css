@@ -7,7 +7,7 @@
 
 body {
 	background-color: #777;
-	width: 960px;
+	width: ;
 }
 
 header {
@@ -33,33 +33,33 @@ header {
 	float: left;
 }
 
-#aside {
-	background-color: #ebebeb;
-	width: 435px;
-	padding: 20px;
-	margin-bottom: 10px;
-	float: right;
-}
-
 #article {
 	background-color: #777;
-	width: 485px;
+	width: ;
 	padding: 20px;
 	margin-bottom: 10px;
 }
 
 #hhh {
 	background-color: #ebebeb;
-	width: 475px;
+	width: 430px;
 	padding: 20px;
 	margin-bottom: 10px;
 } 
 
 #p { 
 	background-color: #ebebeb;
-	width: 475px;
+	width: 430px;
 	padding: 20px;
 	margin-bottom: 10px;
+}
+
+#aside {
+	background-color: #ebebeb;
+	width: ;
+	padding: 20px;
+	margin-bottom: 10px;
+	float: right;
 }
 
 footer {
